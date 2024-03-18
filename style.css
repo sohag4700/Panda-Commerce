@@ -14,3 +14,47 @@
 .carousel-item{
     padding: 20px 40px; ;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+   
+}
+.cat1{
+    background-color: orange;
+    
+}
+.cat2{
+    background-color: #ff7e5f;
+    
+}
+.cat3{
+    background-color: blueviolet;
+    
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px; 
+}
+
+#subscriber{
+    height: 300px;
+    border-radius: 15px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.catagories{
+    margin-top: 40px;
+}
+footer{
+    
+   
+    padding: 20px 0px;
+    text-align: center;
+}
